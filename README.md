@@ -1,0 +1,1 @@
+## “I built a Dockerized FastAPI-based RAG system where documents are embedded using sentence-transformers, stored in FAISS, and retrieved context is sent to Groq-hosted LLaMA models for ultra-low latency inference. The entire system is containerized and scalable using Docker and Kubernetes
